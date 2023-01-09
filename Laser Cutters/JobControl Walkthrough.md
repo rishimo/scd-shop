@@ -81,6 +81,18 @@ Once you've sent your file to JobControl, it will either open JobControl if it w
 
 6. Machine status and connection. This shows the status of the laser, it's connection to JobControl, and the controls to manage that. By clicking the USB button when the laser is on, you'll initiate a connection to the laser. Once this connection is set, this button will change to a play button, which allows you to send the jobs on the bed to the laser with the current material settings. This will also have controls to pause and stop the laser while a job is running. 
 
+## Laser Controls
+
+![lasercontrols](https://user-images.githubusercontent.com/63514508/211396845-d25b42a2-c2a1-4f4b-a182-e86c9e345639.png)
+
+1. On/Off Switch. Turn the key all the way to the left to startup, then release to let turn on. Turning on will initiate a homing sequence, which must be done before anything else can be done with the machine. 
+2. Emergency Stop. Use only in an emergency, i.e. a self-sustaining fire in the bed.
+3. Stop and Start/Pause controls. Pressing start/pause will run the current bed in JobControl, and will pause operation after the machine completes the current operation. This will keep the job and where it is in the job in memory, allowing you to unpause and restart by pressing the start/pause button again. Stop will stop operation, and throw out the current job. 
+4. X-Y Axes Controls. Controls position of the head in the X and Y (horizontal) plane. When connected, the head's position will show in the bed in JobControl and can be locked onto to place files. 
+5. Z Axis Controls. Controls vertical position of bed. Pressing both at once with the head over the material will do an autofocus operation, setting the bed's position to the correct height for that material depth. 
+
+Not pictured: GRIT card reader, towards front of machine. When red, laser will be locked out. When green, laser is able to be operated.
+
 ## Sending to Laser
 To start, have your job prepped and sent to JobControl.
 
