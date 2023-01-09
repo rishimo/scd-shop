@@ -6,7 +6,7 @@ Work dimensions: 24in x 40in
 -  [scd-shop_laser_materials](scd-shop_laser_materials.xml) - material settings database for the laser cutters 
 -  [scd-shop_24x40_template](scd-shop_24x40_template.dwg) - AutoCAD drawing file template for laser cutters. Includes styleguide and instructions for setup.
 -  [24x40in_laser_template--SCD](24x40in_laser_template--SCD.ait) - Adobe Illustrator template for laser cutters. Includes styleguide and instructions for setup.
--  [JobControl Walkthrough](JobControl Walkthrough.md) - Walkthrough for using the laser cutters
+-  [JobControl Walkthrough](JobControl_Walkthrough.md) - Walkthrough for using the laser cutters
 
 ## Using the Templates
 For the Illustrator (.ait) template, download the file, then open up Illustrator then hit `New From Template` and select the file to create a file from the template. For the AutoCAD (.dwg) template, download the file, then open it up in AutoCAD.
