@@ -86,7 +86,7 @@ To start, have your job prepped and sent to JobControl.
 
 1. Place on bed by either double-clicking your job in the jobs tab or dragging it onto the bed in JobControl.
 
-![image](https://user-images.githubusercontent.com/63514508/211390658-a9cc6a40-cd18-4c4c-8cf1-a11dced94de5.png)
+![image](https://user-images.githubusercontent.com/63514508/211392195-b04e4eb0-a2e6-49d9-9bd7-0f22abab3984.png)
 
 2. If the laser is off, turn on the laser by tapping your Grit card to the card reader, then turning the key all the way to the left, and letting it go back, similar to starting a car. The laser will begin a homing sequence, and will beep when finished.
 
