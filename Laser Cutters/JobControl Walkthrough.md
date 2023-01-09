@@ -92,14 +92,11 @@ Once you've sent your file to JobControl, it will either open JobControl if it w
 <p align="center">
   <img src="https://user-images.githubusercontent.com/63514508/211383427-051e52ae-90a0-4eb2-8253-a3a74c4751c3.png" alttext="A screenshot of a job in the Jobs panel in JobControl." />
 </p>
+
 2. Bed. This is the bed of the laser, and placing and positioning jobs here will tell the laser what to do, and where. This bed perfectly matches the bed of the laser, and positioning a job in this bed will put it in that position when sent to the laser. 
-
 3. Material Settings. This is what settings the laser will use to interpret your file. The left dropdown is the category of material, and the right is the specific material, with width. You can also change the material by double clicking on the bed. 
-
 4. What you see is what you get. This is a toggleable option that lets you see what the laser will do given your file. This is used mostly for checking that your file is set up correctly before sending it to the laser. Notably, not all materials use all settings, and changing the material can change how the laser will interpret your file. So, if not all of your file is showing up correctly, check that you have the correct material first. 
-
 5. Placement coordinates. This is the position, in inches, of the upper left corner of the job. You can move the job by either dragging it in the bed, or by using these. Generally, you want to place your job where your material will be, and you'll have the best results the closer to the upper left corner of the bed your job is. However, in order to ensure that the entirety of the job is on your material, you'll want to offset it by a tenth or so of an inch. 
-
 6. Machine status and connection. This shows the status of the laser, it's connection to JobControl, and the controls to manage that. By clicking the USB button when the laser is on, you'll initiate a connection to the laser. Once this connection is set, this button will change to a play button, which allows you to send the jobs on the bed to the laser with the current material settings. This will also have controls to pause and stop the laser while a job is running. 
 
 ## Laser Controls
