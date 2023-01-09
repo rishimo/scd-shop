@@ -6,29 +6,31 @@ Once your file is ready, get in line for the lasers and put your file on a flash
 
 ## AutoCAD to JobControl
 To start, either into the commandline `plot`, or go to File -> Plot. This will open what is essentially AutoCAD's printing function. The following window should open.
-
-<img align="center" src=https://raw.githubusercontent.com/theLadyStardust/scd-shop/main/images/autocadplotstart.JPG>
-
+<p align="center">
+  ![img](https://raw.githubusercontent.com/theLadyStardust/scd-shop/main/images/autocadplotstart.JPG)
+</p>
 This may look like a lot, but we only need to worry about 3 main things, shown in the image below.
-
-![starter_highlighted](https://raw.githubusercontent.com/theLadyStardust/scd-shop/main/images/starter_highlighted.png)
-
+<p align="center">
+  ![starter_highlighted](https://raw.githubusercontent.com/theLadyStardust/scd-shop/main/images/starter_highlighted.png)
+</p>
 1. Plotter: This is the printer output. Select `Trotec Engraver vXX.X.X` from the plotter dropdown. 
-
-![plotter](https://raw.githubusercontent.com/theLadyStardust/scd-shop/main/images/autocadplotter.JPG)
-
+<p align="center">
+  ![plotter](https://raw.githubusercontent.com/theLadyStardust/scd-shop/main/images/autocadplotter.JPG)
+<\p>
 2. Plot Area: This is what will be plotted. First, select `Window` from the `What to Plot` dropdown
 
-![plotareaselect](https://raw.githubusercontent.com/theLadyStardust/scd-shop/main/images/autocadplotareaselect.JPG)
-
+<p align="center">
+  ![plotareaselect](https://raw.githubusercontent.com/theLadyStardust/scd-shop/main/images/autocadplotareaselect.JPG)
+ </p>
 Then select the area you want to laser. 
-
-![windowareaselect](https://raw.githubusercontent.com/theLadyStardust/scd-shop/main/images/autocadwindowselect.JPG)
-
+<p align="center">
+  ![windowareaselect](https://raw.githubusercontent.com/theLadyStardust/scd-shop/main/images/autocadwindowselect.JPG)
+</p>
 If you want to reselect this area, you can hit the `Window<` button this is now next to the `What to Plot` 
 
-![windowreselect](https://github.com/theLadyStardust/scd-shop/blob/main/images/windowreselect.JPG)
-
+<p align="center">
+  ![windowreselect](https://github.com/theLadyStardust/scd-shop/blob/main/images/windowreselect.JPG)
+  </p>
 3. Plot Scale: This is the scale at which this will be plotted. All of The Shop's templates are 1 plot unit = 1 inch, so generally you'll select 1:1, and inches here. To do this, first deselect the `fit to paper` box, then change the `Scale` dropdown to 1:1 with the units in inches.
 
 ![plotscale](https://raw.githubusercontent.com/theLadyStardust/scd-shop/main/images/plotscale.JPG)
