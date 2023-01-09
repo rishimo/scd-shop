@@ -1,7 +1,10 @@
 # Laser Cutter Resources
 
 Toolname: trotec Speedy 400 flexx
+
 Work dimensions: 24in x 40in
+
+Lens: 2.85 in Flexx
 
 -  [scd-shop_laser_materials](scd-shop_laser_materials.xml) - material settings database for the laser cutters 
 -  [scd-shop_24x40_template](scd-shop_24x40_template.dwg) - AutoCAD drawing file template for laser cutters. Includes styleguide and instructions for setup.
