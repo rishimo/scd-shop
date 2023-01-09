@@ -7,11 +7,13 @@ Once your file is ready, get in line for the lasers and put your file on a flash
 ## AutoCAD to JobControl
 To start, either into the commandline `plot`, or go to File -> Plot. This will open what is essentially AutoCAD's printing function. The following window should open.
 <p align="center">
-  <img src="https://raw.githubusercontent.com/theLadyStardust/scd-shop/main/images/autocadplotstart.JPG" alttext="Initial Plot Dialogue />
+  <img src="https://raw.githubusercontent.com/theLadyStardust/scd-shop/main/images/autocadplotstart.JPG" alttext="Initial Plot Dialogue" />
 </p>
+                                                                                                                  
 This may look like a lot, but we only need to worry about 3 main things, shown in the image below.
+
 <p align="center">
-  ![starter_highlighted](https://raw.githubusercontent.com/theLadyStardust/scd-shop/main/images/starter_highlighted.png)
+  <img src="starter_highlighted](https://raw.githubusercontent.com/theLadyStardust/scd-shop/main/images/starter_highlighted.png" alttext="See below for reference" /> 
 </p>
 1. Plotter: This is the printer output. Select `Trotec Engraver vXX.X.X` from the plotter dropdown. 
 <p align="center">
