@@ -15,6 +15,8 @@ This may look like a lot, but we only need to worry about 3 main things, shown i
 
 1. Plotter: This is the printer output. Select "Trotec Engraver vXX.X.X" from the plotter dropdown. 
 
+![plotter](https://raw.githubusercontent.com/theLadyStardust/scd-shop/main/images/autocadplotter.JPG)
+
 2. Plot Area: This is what will be plotted. First, select "Window" from the "What to Plot" dropdown
 
 ![plotareaselect](https://raw.githubusercontent.com/theLadyStardust/scd-shop/main/images/autocadplotareaselect.JPG)
