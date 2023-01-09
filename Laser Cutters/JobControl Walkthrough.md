@@ -62,7 +62,7 @@ Each algorithm is optimized for different uses, and [this article](https://tanne
 ![image](https://user-images.githubusercontent.com/63514508/211381073-d959d84c-9491-44cb-b2c3-ec596436f235.png)
 
 
-## JobControl to Laser
+## JobControl
 Once you've sent your file to JobControl, it will either open JobControl if it wasn't open yet, or it will start it flashing. Either way, navigate to JobControl.
 
 ![jobcontrolbreakdown](https://user-images.githubusercontent.com/63514508/211382921-615a3231-91f6-4e24-beed-a2a12ec8199f.png)
@@ -81,3 +81,27 @@ Once you've sent your file to JobControl, it will either open JobControl if it w
 
 6. Machine status and connection. This shows the status of the laser, it's connection to JobControl, and the controls to manage that. By clicking the USB button when the laser is on, you'll initiate a connection to the laser. Once this connection is set, this button will change to a play button, which allows you to send the jobs on the bed to the laser with the current material settings. This will also have controls to pause and stop the laser while a job is running. 
 
+## Sending to Laser
+To start, have your job prepped and sent to JobControl.
+
+1. Place on bed by either double-clicking your job in the jobs tab or dragging it onto the bed in JobControl.
+
+![image](https://user-images.githubusercontent.com/63514508/211390658-a9cc6a40-cd18-4c4c-8cf1-a11dced94de5.png)
+
+2. If the laser is off, turn on the laser by tapping your Grit card to the card reader, then turning the key all the way to the left, and letting it go back, similar to starting a car. The laser will begin a homing sequence, and will beep when finished.
+
+3. Place your material on the laser bed where you have your job in JobControl. If you need to move the laser down to fit your material, use the Z axis controls to move the bed to fit your material.
+
+5. Using the XY axes arrows on the laser controls to place the head over your material, hit both Z arrows to home the Z position. The laser needs to be a certain depth from the material to home correctly, and this does that automatically. 
+
+6. Initiate a connection to the laser by hitting the USB button in JobControl. 
+
+6. Select your material by double-clicking the bed outside of your job, then finding the material category and the specific material. If you accidently double-click on your job,  you can hit escape to get back to the main view. Note that the specific material settings can't be changed without Shop Supervisor permission. 
+
+![image](https://user-images.githubusercontent.com/63514508/211390466-bb73d001-0bf5-4587-9483-770902c8a730.png)
+
+7. Using the what you see is what you get tool shown above, check the position and operations done by the laser. Blacks, greens and greys will engrave, reds will cut. 
+
+![image](https://user-images.githubusercontent.com/63514508/211390869-3f604771-1df0-4980-b617-89ffc9438515.png)
+
+8. After checking to ensure correct placement, size, position, and operations of your job, hit the play button in the laser status area in the bottom right of JobControl or the Play/Pause button on the laser to start the job. 
