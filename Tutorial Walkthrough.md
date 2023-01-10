@@ -23,8 +23,6 @@ Under `Add Files` you will find two options for adding files to your branch: Upl
   <img src="https://user-images.githubusercontent.com/63514508/211634469-cd6b125c-d63e-43d2-a21a-f8801f4174c4.png" alttext="...followed with a / will let it be entered as a folder. Using the name of an existing location path will put it at that location, if it doesn't exist it will create a new path."/>
 </p>
 
-### Creating Folders
-
 ### Syncing your fork
 While you are working on your fork, there may be changes to the main branch. In order to get these to register on your fork, you can use the `Update Branch` option under `Sync Fork` as shown below to update your fork to reflect those changes. 
 <p align="center">
@@ -39,3 +37,12 @@ When you're ready to put the things you've been working on into the main branch,
 <p align="center">
   <img src="https://user-images.githubusercontent.com/63514508/211632079-1c236bb1-739b-4222-a262-821817662d6e.png" />
 </p>
+
+## README and Markdown
+When creating a new directory, it's recommended to create a README.md file to go along with it. This file will display below the contents of that directory automatically after opening it as seen below. 
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/63514508/211636715-b5eede96-d656-4867-96f5-133a25c98e7a.png" />
+</p>
+
+READMEs generally should include information about the contents of the folder, external resources, or otherwise just relevant information.
