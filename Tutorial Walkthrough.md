@@ -51,4 +51,6 @@ READMEs generally should include information about the contents of the folder, e
 Markdown files, with file extension `.md`, are a way to format and display text files in a clean and easy-to-read way. Some basics will be covered here, but for more documentation, check out [the Markdown website](https://www.markdownguide.org/getting-started/) and [GitHub's Intro to Markdown](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax). To make a Markdown file, just create a file as discussed above with the file extension `.md`. Markdown files can easily be opened and displayed in GitHub. 
 
 # Actually Creating Tutorials
-
+Tutorials for this repository should follow the guidelines below:
+ - **Set Expectations:** Near the beginning, clearly state what the goal of this tutorial is, by what means that goal will be accomplished, and what the reader should start with, both in terms of skills/knowledge, and in software, materials or other resources in order to complete the tutorial. 
+ - **
