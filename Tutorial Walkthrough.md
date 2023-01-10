@@ -1,0 +1,27 @@
+# Creating a tutorial for this repository
+This repository is meant as a common place to store and maintain infrastructure for The Shop at SCD, including tutorials and walkthroughs of projects and techniques that guests and staff have done. Note that **these are not training for Shop machines,** these are just meant as a reference and a place to kickstart knowledge. You, as part of The Shop's community, are welcome to contribute! If you want to find out how, keep reading. 
+
+## Getting started
+Before creating a tutorial, you'll want to create a GitHub account in order to be able to contribute. You can do that [here](https://github.com/signup?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F&source=header-home). Once you have your account set up, go to this repository, then find the `Fork` button. 
+
+![image](https://user-images.githubusercontent.com/63514508/211624124-5d8d7666-6d1a-40ec-be60-4d9291428963.png)
+
+Forking a repository will create your own copy of it as it was when you fork it, and allows you to edit and change things within your fork without changing the main project. Then, when you have what you want to contribute done,  you can submit a pull request for review by the repository's owners, who will then either accept it and merge it into the main branch, or will reject it and tell you what needs to change. You can then access your fork by going to your profile in the upper right and finding `Your Repositories`, then navigating to your fork of scd-shop. From here you can navigate through, create and upload files, and more. 
+
+## Using your fork
+
+
+### Syncing your fork
+While you are working on your fork, there may be changes to the main branch. In order to get these to register on your fork, you can use the `Update Branch` option under `Sync Fork` as shown below to update your fork to reflect those changes. 
+
+![image](https://user-images.githubusercontent.com/63514508/211631273-7c9e3895-af49-47b9-81b0-8fbcc163904a.png)
+
+There may be issues if you edit a file that was also edited, as those edits may conflict, and you'll have to choose how those conflicts resolve on your branch.
+
+### Contributing and pull requests
+When you're ready to put the things you've been working on into the main branch, you can go to `Contribute` -> `Open a pull request` to submit your changes for review. 
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/63514508/211632079-1c236bb1-739b-4222-a262-821817662d6e.png" />
+</p>
+
