@@ -17,10 +17,10 @@ Forking a repository will create your own copy of it as it was when you fork it,
 Under `Add Files` you will find two options for adding files to your branch: Upload files, and create new file. Upload files will let you upload any files under 25Mb to the current folder you are navigated to. Create new file will let you create a file in any subfolder of the current location, including creating new subfolders from that location. You can do this by entering `Folder Name/File Name.fileextension` in the `Name your file...` text box as shown below. 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/63514508/211634172-260a1886-7903-4324-a0e3-a1dc25586ffb.png" alttext="Empty text box"/>
-
+  <br>
   <img src="https://user-images.githubusercontent.com/63514508/211634309-74accfc2-53a5-44eb-ac6b-5f6f77fd9de7.png" alttext="Entering the folder name..."/>
-  
-  <img src="https://user-images.githubusercontent.com/63514508/211634469-cd6b125c-d63e-43d2-a21a-f8801f4174c4.png" alttext="...followed with a \"/\" will let it be entered as a folder. Using the name of an existing location path will put it at that location, if it doesn't exist it will create a new path."/>
+  <br>
+  <img src="https://user-images.githubusercontent.com/63514508/211634469-cd6b125c-d63e-43d2-a21a-f8801f4174c4.png" alttext="...followed with a / will let it be entered as a folder. Using the name of an existing location path will put it at that location, if it doesn't exist it will create a new path."/>
 </p>
 
 ### Creating Folders
