@@ -50,7 +50,13 @@ READMEs generally should include information about the contents of the folder, e
 ## Markdown
 Markdown files, with file extension `.md`, are a way to format and display text files in a clean and easy-to-read way. Some basics will be covered here, but for more documentation, check out [the Markdown website](https://www.markdownguide.org/getting-started/) and [GitHub's Intro to Markdown](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax). To make a Markdown file, just create a file as discussed above with the file extension `.md`. Markdown files can easily be opened and displayed in GitHub. 
 
-# Actually Creating Tutorials
-Tutorials for this repository should follow the guidelines below:
+# Creating Tutorials
+Tutorials can be nebulous and hard to start, and harder to do well. These guidelines should help set forth some expectations and hopefully get you started in the right direction. 
+- **Follow Shop Rules:** Tutorials should operate strictly within the lines of rules set forth by Shop staff. Rules are there to protect you and equipment, and not following them can endanger either. 
+ - **Be Professional:** These tutorials will be public, and what you put in them reflects both on you, and on The Shop as a whole. Additionally, professional language is generally clear language.
+ - **Credit Outside Resources:** Don't be afraid to use outside resources! If you know a video on something that is relevant, don't be afraid to link it. But, don't plagiarize and state that others' work is your own. 
  - **Set Expectations:** Near the beginning, clearly state what the goal of this tutorial is, by what means that goal will be accomplished, and what the reader should start with, both in terms of skills/knowledge, and in software, materials or other resources in order to complete the tutorial. 
- - **
+ - **Start to Finish:** The tutorial should cover every step along the way between the stated start resources and goal.
+ -  **Don't Assume Knowledge:** Not everyone has the same knowledge base as you. Either state skills needed, or explain them as you go. 
+
+If you need further guidance, check out the other tutorials in this repository, like the [Laser Walkthrough](https://github.com/theLadyStardust/scd-shop/blob/main/Laser%20Cutters/JobControl%20Walkthrough.md).
