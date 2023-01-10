@@ -38,11 +38,17 @@ When you're ready to put the things you've been working on into the main branch,
   <img src="https://user-images.githubusercontent.com/63514508/211632079-1c236bb1-739b-4222-a262-821817662d6e.png" />
 </p>
 
-## README and Markdown
-When creating a new directory, it's recommended to create a README.md file to go along with it. This file will display below the contents of that directory automatically after opening it as seen below. 
+## README
+When creating a new directory, it's recommended to create a `README.md` file to go along with it. This file will display below the contents of that directory automatically after opening it as seen below. 
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/63514508/211636715-b5eede96-d656-4867-96f5-133a25c98e7a.png" />
 </p>
 
 READMEs generally should include information about the contents of the folder, external resources, or otherwise just relevant information.
+
+## Markdown
+Markdown files, with file extension `.md`, are a way to format and display text files in a clean and easy-to-read way. Some basics will be covered here, but for more documentation, check out [the Markdown website](https://www.markdownguide.org/getting-started/) and [GitHub's Intro to Markdown](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax). To make a Markdown file, just create a file as discussed above with the file extension `.md`. Markdown files can easily be opened and displayed in GitHub. 
+
+# Actually Creating Tutorials
+
