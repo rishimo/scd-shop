@@ -1,5 +1,5 @@
 # Waterjet Resources and Documentation
-
+Before you come into use the waterjet at The Shop, you should download PROTOMAX Layout and Make, then go through the Layout walkthrough, and prepare your file in Layout, and familiarize yourself with Make. 
 ## In this directory
  * **[OMAX Operating Guide](OMAX_Operating_Guide.pdf)** - Operations Manual for our waterjet
  * **[OMAX/PROTOMAX Layout Walkthrough](Layout%20Walkthrough.md)**
