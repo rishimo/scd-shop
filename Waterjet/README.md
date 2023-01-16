@@ -1,7 +1,7 @@
 # Waterjet Resources and Documentation
 
 ## In this directory
- * **OMAX Operating Guide** - Operations Manual for our waterjet
+ * **[OMAX Operating Guide](OMAX_Operating_Guide.pdf)** - Operations Manual for our waterjet
  * **[OMAX/PROTOMAX Layout Walkthrough](Layout%20Walkthrough.md)**
 
 ## Other Resources
