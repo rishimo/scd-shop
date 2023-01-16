@@ -9,16 +9,20 @@ Layout's interface is a little more obfuscated than most modern CAD softwares'. 
 The left toolbar is mostly creating and editing paths and vectors, the bottom is viewing tools and configuration settings (like zoom, dimensions, and background color), and the right has functions for finishing and exporting. 
 
 
-## Walkthrough
+## Layout
 1. Open Layout, then go to `File` -> `Import from other CAD`. After finding and selecting your vector file, hit `Open` to import it. The following window will appear.
 
 ![image](https://user-images.githubusercontent.com/63514508/211651199-d8444f81-2103-46dd-b2a1-b0e7245fdc9a.png)
 
 The main display shows a preview of what your file will look like when imported. This may not perfectly match what you imported, and you can use the `Spline Curve Conversion Tolerance` and `Ellipse Curve Conversion Tolerance` sliders on the left to adjust it. Additionally, there are some viewing tools (pan, zoom, etc) near the bottom right of the display panel. Once you have the sliders adjusted the way you want, you can hit `Ok` in the bottom left. This will finish the importing process.
 
-2. 
+2. Once you have your job imported to PROTOMAX, first check your scale. The `Measurement` option in the bottom row can measure lengths between two points, in the document's units. You can change the documents units by going to `Config` in the bottom row, and then selecting your preferred units in the dropdown, as shown below. 
 
-3. Once you have your job imported to PROTOMAX, can select extra pieces that got imported by using the `Select` tool, and then pressing the delete key with them highlighted. Here I am using the `Window` select tool. 
+![image](https://user-images.githubusercontent.com/63514508/212764168-d6e244c1-a848-4512-a66f-d509338bbf6e.png)
+
+You can also rescale elements by using the `Size` option in the upper left. Then you can set the X and Y dimensions of the selected elements. By default, the aspect ratio is set, meaning the proportions of the elements will be maintained by rescaling. This can be changed by selecting the `Stretch - Arcs become oval` option. 
+
+3. You can select extra pieces that got imported by using the `Select` tool, and then pressing the delete key with them highlighted. Here I am using the `Window` select tool. 
 
 ![image](https://user-images.githubusercontent.com/63514508/211654491-3efa5e60-af86-492c-9ba8-d3d1bcd1cdd4.png)
 
@@ -74,4 +78,4 @@ It may show a screen similar to the one below, with some paths in yellow. Here i
 
 ![image](https://user-images.githubusercontent.com/63514508/211665324-a566e130-0118-44bd-b415-e014b32e77d7.png)
 
-
+It will then open a dialogue box to save your paths, and you're done! 
